@@ -1,1 +1,2 @@
 estamos aia tentando novamente push and pull
+é sempre importatnte lembra de colocar o -a para comitar todos os arquivos
